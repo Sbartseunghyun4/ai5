@@ -71,17 +71,17 @@ st.markdown("---")
 CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
      labels[0]: {
-       "texts": [""],
+       "texts": ["상대가 기뻐하고 있습니다.(같이 웃었으면 더 기뻐하게 됨)"],
        "images": [""],
        "videos": [""]
      },
      labels[1]: {
-       "texts": [""],
+       "texts": ["상대가 슬퍼하고 있습니다.(상대를 달래줘야 됨)"],
        "images": [""],
        "videos": [""]
      },
      labels[2]: {
-       "texts": [""],
+       "texts": ["상대가 짜증나하고 있습니다.(상대 기분을 맞춰야지 풀림)"],
        "images": [""],
        "videos": [""]
      },
